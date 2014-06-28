@@ -1,6 +1,6 @@
-# HippGrid
+# uberhipsters	
 
-This is the backend database for 
-[*HippGrid*](http://hippgrid.com)
+This is the front-facing website for 
+[*uberhipsters*](http://uberhipsters.com)
 
 by Hippodamus of Los Angeles
