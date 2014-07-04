@@ -10,6 +10,40 @@ $brand-primary:                #000000;
 
 @import 'bootstrap';
 
+
+h1 {
+    font-weight: bold;
+    font-size: 82px;
+    margin-top: -3px;
+    letter-spacing: -0.04em;
+    color: #000000;
+}
+
+.jumbotron h1, .jumbotron .h1 {
+    font-weight: bold;
+    font-size: 82px;
+    margin-top: -3px;
+    letter-spacing: -0.04em;
+    color: #000000;
+}
+
+.jumbotron h2, .jumbotron .h2 {
+    font-size: 41px;
+    margin-top: -3px;
+    letter-spacing: -0.04em;
+    color: #ff00ff;
+}
+
+.container {
+    width: 91% !important;
+}
+
+.jumbotron {
+    margin-top: 100px;
+    background-color: #ffffff;
+    font-color: #000000;
+}
+
 .center {
      text-align: center;
 }
