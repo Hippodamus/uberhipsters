@@ -21,7 +21,6 @@ $brand-primary:                #000000;
      letter-spacing: -0.04em;
 }
 
-
 .navbar-default .navbar-brand:hover {
 	color: #00ffff;
 }
@@ -30,7 +29,6 @@ a img {
 vertical-align: middle;
 margin-top: -28px;
 }
-
 
 .homelogo:hover {
   content: url(http://i.imgur.com/VjfGKjB.png);
@@ -43,3 +41,13 @@ margin-top: -28px;
   vertical-align: middle;
   margin-top: -28px;
 }
+
+.shop {
+  color: #00ffff;
+}
+
+.shop:hover {
+	color: #ff00ff;;
+  vertical-align: middle;
+}
+
