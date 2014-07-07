@@ -1,4 +1,5 @@
 HippGrid::Application.routes.draw do
+  get "welcome/index"
   devise_for :users
   root "pages#home"
   get "about" => "pages#about"
