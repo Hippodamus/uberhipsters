@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '1.9.3'
+ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
@@ -29,7 +29,7 @@ gem 'bootstrap-sass'
 
 gem 'devise', '~> 3.1.0.rc2'
 
-gem 'rake', '~> 10.1.1'
+gem 'rake', '~> 10.3.2'
 
 group :development, :test do
 	gem 'sqlite3'
