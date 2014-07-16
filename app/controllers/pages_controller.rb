@@ -5,6 +5,6 @@ class PagesController < ApplicationController
   def about
   end
 
-  def howitworks
+  def join
   end
 end

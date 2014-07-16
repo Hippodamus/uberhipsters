@@ -1,12 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
 $body-bg:                      #ecf0f1;
-$font-family-sans-serif:       'Arial', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$navbar-height:                100px;						 
+$font-family-sans-serif:       'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$navbar-height:                110px;						 
 $navbar-margin-bottom:         0px;
-$navbar-default-bg:            white;
-$navbar-default-brand-color:   #000000;
-$brand-primary:                #000000;
+$navbar-default-bg:            black;
+$navbar-default-brand-color:   #ffffff;
+$brand-primary:                #ff00ff;
+$link-hover-color:             #00ffff;
 
 @import 'bootstrap';
 
@@ -65,7 +66,7 @@ margin-top: -28px;
 }
 
 .homelogo:hover {
-  content: url(http://i.imgur.com/VjfGKjB.png);
+  content: url(images/uhlogo-hover.png);
   vertical-align: middle;
   margin-top: -28px;
   height: 82px;
@@ -73,7 +74,7 @@ margin-top: -28px;
 }
 
 .twitterlogo:hover {
-  content: url(http://i.imgur.com/QuaEEaL.png);
+  content: url(images/twitter-hover.png);
   vertical-align: middle;
   margin-top: -28px;
   height: 82px;
@@ -81,7 +82,7 @@ margin-top: -28px;
 }
 
 .instagramlogo:hover {
-  content: url(http://s29.postimg.org/z3dtntpr7/instagramhover.png);
+  content: url(images/instagram-hover.png);
   vertical-align: middle;
   margin-top: -28px;
   height: 82px;
@@ -89,11 +90,11 @@ margin-top: -28px;
 }
 
 .soundcloudlogo:hover {
-  content: url(http://i.imgur.com/7dcTXvL.png);
+  content: url(images/soundcloud-hover.png);
   vertical-align: middle;
   margin-top: -28px;
   height: 82px;
-  width: 168px;
+  width: 171px;
 }
 
 .shop {
