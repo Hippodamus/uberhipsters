@@ -12,6 +12,7 @@
 <body>
 
 	<%= render 'layouts/header' %>
+	<%= render 'layouts/font' %>
 	<div>
 		<% flash.each do |name, msg| %>
     	<%= content_tag(:div, msg, class: "alert alert-info") %>
