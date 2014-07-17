@@ -12,9 +12,9 @@ $link-hover-color:             #00ffff;
 @import 'bootstrap';
 
 
-@media screen and (max-width: 1920px) {
+@media(max-width:1920px){
         h1 {
-    font-size:82px;
+    font-size:82px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
@@ -22,9 +22,9 @@ $link-hover-color:             #00ffff;
     }
 }
 
-@media screen and (max-width: 1680px) {
+@media(max-width:1680px){
         h1 {
-    font-size:72px;
+    font-size:72px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
@@ -32,9 +32,9 @@ $link-hover-color:             #00ffff;
     }
 }
 
-@media screen and (max-width: 1600px) {
+@media(max-width:1600px){
         h1 {
-    font-size:68px;
+    font-size:68px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
@@ -42,9 +42,9 @@ $link-hover-color:             #00ffff;
     }
 }
 
-@media screen and (max-width: 1440px) {
+@media(max-width:1440px){
         h1 {
-    font-size:62px;
+    font-size:62px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
@@ -52,9 +52,9 @@ $link-hover-color:             #00ffff;
     }
 }
 
-@media screen and (max-width: 1400px) {
+@media(max-width:1400px){
         h1 {
-    font-size:60px;
+    font-size:60px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
@@ -62,9 +62,9 @@ $link-hover-color:             #00ffff;
     }
 }
 
-@media screen and (max-width: 1280px) {
+@media(max-width:1280px){
         h1 {
-    font-size:55px;
+    font-size:55px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
@@ -72,9 +72,9 @@ $link-hover-color:             #00ffff;
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media(max-width:1024px){
         h1 {
-    font-size:44px;
+    font-size:44px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
@@ -82,9 +82,9 @@ $link-hover-color:             #00ffff;
     }
 }
 
-@media screen and (max-width: 800px) {
+@media(max-width:800px){
         h1 {
-    font-size:34px;
+    font-size:34px!important;
     font-weight: bold;
     margin-top: -3px;
     letter-spacing: -0.04em;
