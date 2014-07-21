@@ -33,6 +33,10 @@ gem 'rake', '~> 10.3.2'
 
 gem 'jwplayer-rails', '~> 1.0.1'
 
+gem 'mail_form'
+
+gem 'simple_form'
+
 group :development, :test do
 	gem 'sqlite3'
 end
