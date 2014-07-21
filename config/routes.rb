@@ -1,8 +1,11 @@
 HippGrid::Application.routes.draw do
+  resources :products
+
   devise_for :users
   root "pages#home"
   get "about" => "pages#about"
   get "join" => "pages#join"
+  get "shop" => "products#index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
